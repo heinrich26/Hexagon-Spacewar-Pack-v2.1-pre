@@ -69,4 +69,4 @@ Bitte immer eine Zeile freilassen!
 
 \-[Arvala-7](https://starwars.fandom.com/wiki/Arvala-7) Mudhorn Arena + Java Crawler bauen. End or Nether Dim nutzen, sonst sieht man den Deathstar am Himmel. Biom: z.B. Wüste, Primärblock: Sand/Red Sand
 
-\-Malachor-5 Arena für den Darth Traya Boss bauen (Sith-Triumvat/Akademie)
+\-Malachor-5 Arena für den Darth Traya Boss bauen (Sith-Triumvat/Akademie) “Trayus-Akademie” dunkle Kreativität gefragt
