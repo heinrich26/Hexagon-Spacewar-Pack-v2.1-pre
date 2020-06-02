@@ -2,8 +2,10 @@ Punkte mit \\-Your ToDo hinzufügen, wenn du ein ToDo bearbeitest schreibst du d
 Wenn du etwas bearbeitet hast, kannst du [Done] hinter den - schreiben.
 Wenn du willst, kannst du die eingefügte Datei verlinken!
 Like: \\-[done] Mandos Rifle modeln (heinrich27)
+Bitte immer eine Zeile freilassen!
 
 
+####### Ressources:
 \-Lichtschwerter überarbeiten
 
 \-LZXZs Modelle einholen + Display hinzufügen und in ein Item einfügen (beim Crossbow) CustomModelData 2+
