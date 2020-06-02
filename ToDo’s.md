@@ -1,12 +1,12 @@
-Punkte mit \-Your ToDo hinzufügen, wenn du ein ToDo bearbeitest schreibst du deinen Namen hinter den ToDo!
+Punkte mit \\-Your ToDo hinzufügen, wenn du ein ToDo bearbeitest schreibst du deinen Namen hinter den ToDo!
 Wenn du etwas bearbeitet hast, kannst du [Done] hinter den - schreiben.
 Wenn du willst, kannst du die eingefügte Datei verlinken!
-Like: \-[done] Mandos Rifle modeln (heinrich27)
+Like: \\-[done] Mandos Rifle modeln (heinrich27)
 
 
 \-Lichtschwerter überarbeiten
 \-LZXZs Modelle einholen + Display hinzufügen und in ein Item einfügen (beim Crossbow) CustomModelData 2+
-\-Podracer modelln
+\-Podracer modeln (dazuschreiben welchen)
 \-Stardestroyer Brücken-Fensterbänke überarbeiten (heinrich27)
 \-Kopf für Yoda modeln (heinrich27)
 \-Mudhorn Bauch modeln
