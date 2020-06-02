@@ -5,7 +5,7 @@ Like: \\-[done] Mandos Rifle modeln (heinrich27)
 Bitte immer eine Zeile freilassen!
 
 
-###### Ressources:
+##### Ressources:
 \-Lichtschwerter überarbeiten
 
 \-LZXZs Modelle einholen + Display hinzufügen und in ein Item einfügen (beim Crossbow) CustomModelData 2+
@@ -42,3 +42,29 @@ Bitte immer eine Zeile freilassen!
 \-Lichtschwertsounds raussuchen/Synthesizern !Copyrightfrei
 
 \-Jetpack Sounds raussuchen !Copyright
+
+##### Data Stuff
+
+\-Werte für Waffen
+
+\-Werte für Lichtschwerter
+
+\-Werte für Bosse
+
+\-Werte für Rüstungssets
+
+\-Werte für Podracer
+
+\-Werte für Droiden
+
+##### Programming Stuff
+
+\-Besondere Funktionen von Waffen
+  \-> Mandos Scharfschützengewehr: Swap von Sprint-Attacke auf Scharfschütze (Reduktion v. Schaden wenn nicht sprinten, muss mit Leftklick aktiviert werden)
+
+\-Lichtschwertaktivierung bei Linksklick, Soundevent
+
+
+##### Worlds/Maps
+
+\-
