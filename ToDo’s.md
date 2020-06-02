@@ -4,8 +4,8 @@ Wenn du willst, kannst du die eingefügte Datei verlinken!
 Like: -[done] Mandos Rifle modeln (heinrich27)
 
 
--Lichtschwerter überarbeiten
--LZXZs Modelle einholen + Display hinzufügen und in ein Item einfügen (beim Crossbow) CustomModelData 2+
+\-Lichtschwerter überarbeiten
+\-LZXZs Modelle einholen + Display hinzufügen und in ein Item einfügen (beim Crossbow) CustomModelData 2+
 -Podracer modelln
 -Stardestroyer Brücken-Fensterbänke überarbeiten (heinrich27)
 -Kopf für Yoda modeln (heinrich27)
