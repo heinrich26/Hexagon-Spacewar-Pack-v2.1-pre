@@ -67,4 +67,5 @@ Bitte immer eine Zeile freilassen!
 
 ##### Worlds/Maps
 
-\-
+\-[Arvala-7](https://starwars.fandom.com/wiki/Arvala-7) Mudhorn Arena + Java Crawler bauen. End or Nether Dim nutzen, sonst sieht man den Deathstar am Himmel. Biom: z.B. Wüste, Primärblock: Sand/Red Sand
+
