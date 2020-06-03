@@ -14,7 +14,7 @@ Bitte immer eine Zeile freilassen!
 
 \-Stardestroyer Brücken-Fensterbänke überarbeiten (heinrich27)
 
-\-Kopf für Yoda modeln (heinrich27)
+\-[Done] Kopf für Yoda modeln (heinrich27)
 
 \-Mudhorn Bauch modeln
 
