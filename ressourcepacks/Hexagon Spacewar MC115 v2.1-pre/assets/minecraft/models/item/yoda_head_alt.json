@@ -1,0 +1,6 @@
+{
+	"parent": "item/yoda_head",
+	"textures": {
+		"0": "item/yoda_head_alt"
+	}
+}
