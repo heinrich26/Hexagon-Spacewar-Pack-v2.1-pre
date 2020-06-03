@@ -4,6 +4,7 @@
 	"layer0": "item/magma_cream"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/sabers/anakin" }
+		{ "predicate": { "custom_model_data": 1}, "model": "item/sabers/anakin" },
+        	{ "predicate": { "custom_model_data": 2}, "model": "item/sabers/yoda" }
 	]
 }
