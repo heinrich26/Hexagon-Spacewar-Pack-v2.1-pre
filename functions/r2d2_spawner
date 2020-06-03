@@ -1,0 +1,6 @@
+# credit: heinrich27 04.06.2020 00:40
+# R2-D2 Spawner
+
+summon minecraft:wolf ^ ^ ^1 {ActiveEffects:[{Id:14b,Duration:999999999,ShowParticles:0b}],Passengers:[{id:"armor_stand",Pose:{RightArm:[0f,0f]},ShowArms:1b,HandItems:[{id:"melon",Count:1b,tag:{CustomModelData:1}},{}],Invisible:1b,Marker:1b,HandDropChances:[0f,0f]}]}
+# for a owners name-tag use selector-tag with @s
+# this function has to be run as the player on rightclick with the droid item
