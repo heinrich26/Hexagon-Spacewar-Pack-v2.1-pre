@@ -1,0 +1,23 @@
+{
+	"credit": "Designed by heinrich27 with Blockbench (sorry Bdcraft staff ;)",
+	"parent": "item/amban_sniper_rifle",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-1.75, 1.5, -9],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-1.75, 1.5, -9],
+			"scale": [-0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -2.5, 0],
+			"translation": [5, 1.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -2.5, 0],
+			"translation": [5, 1.75, 0],
+			"scale": [-1, 1, 1]
+		}
+	}
+}

@@ -1,0 +1,3 @@
+{"credit":"Designed by heinrich27 with Blockbench (sorry Bdcraft staff ;)","parent":"item/rifles/aiming_rifle_1","display":{"thirdperson_righthand":{
+			"translation": [-1, 3, -9],"rotation":[0,-7.5,0]},"thirdperson_lefthand":{
+			"translation": [-1, 3, -9],"rotation":[0,-7.5,0]},"firstperson_righthand":{"rotation":[0,-5.075,0],"translation":[0.6725,5.0375,0]},"firstperson_lefthand":{"rotation":[0,-5.075,0],"translation":[0.6725,5.0375,0]}}}
