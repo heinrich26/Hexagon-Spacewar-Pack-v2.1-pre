@@ -70,6 +70,7 @@ Bitte immer eine Zeile freilassen!
 
 \-Blöcke, die Helme darstellen aufsetzbar machen [see:](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/inventory/InventoryClickEvent.html)
 
+\-Für die Färbbare Bes'kar Rüstungen beim Helm Feuerwerkssterne nutzen
 
 
 ##### Worlds/Maps
