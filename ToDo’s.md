@@ -68,6 +68,8 @@ Bitte immer eine Zeile freilassen!
 
 \-Adv Jetpack so programmieren/Einstellen, dass es keinen Treibstoff mehr braucht, dafür aber Abklingzeit (Flughxrnchen)
 
+\-Blöcke, die Helme darstellen aufsetzbar machen [see:](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/inventory/InventoryClickEvent.html)
+
 
 
 ##### Worlds/Maps
