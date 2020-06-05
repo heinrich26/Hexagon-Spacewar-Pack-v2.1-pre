@@ -57,6 +57,8 @@ Bitte immer eine Zeile freilassen!
 
 \-Werte für Droiden
 
+\-Drops und Dropchance von (z.B.) Rüstungstechnologie(?)oder Schrott von Bossen einrichten (Flughxrnchen)
+
 ##### Programming Stuff
 
 \-Besondere Funktionen von Waffen
@@ -66,7 +68,6 @@ Bitte immer eine Zeile freilassen!
 
 \-Adv Jetpack so programmieren/Einstellen, dass es keinen Treibstoff mehr braucht, dafür aber Abklingzeit (Flughxrnchen)
 
-\-Drops und Dropchance von (z.B.) Rüstungstechnologie(?)oder Schrott von Bossen einrichten (Flughxrnchen)
 
 
 ##### Worlds/Maps
