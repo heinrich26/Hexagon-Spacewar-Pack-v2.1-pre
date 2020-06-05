@@ -64,7 +64,7 @@ Bitte immer eine Zeile freilassen!
 
 \-Lichtschwertaktivierung bei Linksklick, Soundevent
 
-\-Adv Jetpack so programmieren/Einstellen, dass es keinen Treibstoff mehr braucht
+\-Adv Jetpack so programmieren/Einstellen, dass es keinen Treibstoff mehr braucht (Flughxrnchen)
 
 
 ##### Worlds/Maps
