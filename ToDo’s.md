@@ -66,6 +66,8 @@ Bitte immer eine Zeile freilassen!
 
 \-Adv Jetpack so programmieren/Einstellen, dass es keinen Treibstoff mehr braucht (Flughxrnchen)
 
+\-Drops und Dropchance von (z.B.) Rüstungstechnologie(?)oder Schrott von Bossen einrichten (Flughxrnchen)
+
 
 ##### Worlds/Maps
 
