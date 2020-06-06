@@ -107,6 +107,13 @@
         {
             "predicate": {
                 "charged": 1,
+		"custom_model_data": 2
+            },
+            "model": "item/sabers/yoda"
+        },
+        {
+            "predicate": {
+                "charged": 1,
                 "firework": 1
             },
             "model": "item/crossbow_firework"
