@@ -1,0 +1,11 @@
+{
+    "parent": "block/white_concrete",
+    "overrides": [
+	{
+	    "predicate": {
+		"custom_model_data": 1
+            },
+            "model": "item/stormtrooper_helmet"
+	}
+    ]
+}

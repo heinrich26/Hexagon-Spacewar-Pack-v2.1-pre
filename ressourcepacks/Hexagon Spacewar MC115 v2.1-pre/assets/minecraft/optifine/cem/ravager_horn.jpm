@@ -1,0 +1,59 @@
+{
+	"texture": "horn",
+	"textureSize": [256, 256],
+	"credit": "Designed by heinrich27 with Blockbench (sorry Bdcraft staff ;)",
+	"boxes": [
+		{
+			"coordinates": [-3, -30.07946, 0.02416, 6, 9, 6],
+			"uvNorth": [72, 96, 96, 132],
+			"uvEast": [48, 96, 72, 132],
+			"uvSouth": [24, 96, 48, 132],
+			"uvWest": [0, 96, 24, 132],
+			"uvUp": [96, 95, 120, 120]
+		}
+	],
+	"submodels": [
+		{
+			"id": "head_sub_1",
+			"rotate": [10, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5, -9.91622, 0.31769, 10, 12, 11],
+					"uvNorth": [128, 0, 168, 48],
+					"uvEast": [84, 0, 128, 48],
+					"uvSouth": [44, 0, 84, 48],
+					"uvWest": [0, 0, 44, 48],
+					"uvUp": [168, 0, 208, 44]
+				}
+			]
+		},
+		{
+			"id": "head_sub_3",
+			"rotate": [-5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1.5, -36.10164, -1.01604, 3, 7, 3],
+					"uvNorth": [72, 132, 96, 188],
+					"uvEast": [48, 132, 72, 188],
+					"uvSouth": [24, 132, 48, 188],
+					"uvWest": [0, 132, 24, 188],
+					"uvUp": [96, 95, 120, 120]
+				}
+			]
+		},
+		{
+			"id": "head_sub_2",
+			"rotate": [5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, -20.99333, 0.44842, 8, 12, 9],
+					"uvNorth": [104, 48, 136, 96],
+					"uvEast": [68, 48, 104, 96],
+					"uvSouth": [36, 48, 68, 96],
+					"uvWest": [0, 48, 36, 96],
+					"uvUp": [136, 48, 168, 84]
+				}
+			]
+		}
+	]
+}

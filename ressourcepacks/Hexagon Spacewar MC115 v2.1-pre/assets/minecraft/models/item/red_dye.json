@@ -1,0 +1,37 @@
+{
+	"credit": "Designed by heinrich27 with Blockbench (sorry Bdcraft staff ;)",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "item/blades",
+		"particle": "item/blades"
+	},
+	"elements": [
+		{
+			"from": [7.5, 7.5, 7.5],
+			"to": [8.5, 27.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.5, 15.5, 15.5]},
+			"faces": {
+				"north": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"east": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"south": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"west": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"up": {"uv": [14, 14, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube_outline",
+			"from": [9.25, 28.25, 9.25],
+			"to": [6.75, 6.75, 6.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.5, 15.5, 15.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

@@ -1,0 +1,9 @@
+{
+	"models": [
+		{
+			"model": "head_zombie.jpm",
+			"part": "head",
+			"attach": false
+		}
+	]
+}

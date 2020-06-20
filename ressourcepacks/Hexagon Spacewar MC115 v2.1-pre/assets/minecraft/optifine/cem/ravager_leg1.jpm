@@ -1,0 +1,16 @@
+{
+	"texture": "mudhorn",
+	"textureSize": [256, 256],
+	"credit": "Designed by heinrich27 with Blockbench (sorry Bdcraft staff ;)",
+	"boxes": [
+		{
+			"coordinates": [-4, 0, -4, 8, 29, 8],
+			"uvNorth": [208, 0, 224, 58],
+			"uvEast": [192, 0, 208, 58],
+			"uvSouth": [240, 0, 256, 58],
+			"uvWest": [224, 0, 240, 58],
+			"uvUp": [112, 32, 96, 16],
+			"uvDown": [112, 16, 128, 32]
+		}
+	]
+}

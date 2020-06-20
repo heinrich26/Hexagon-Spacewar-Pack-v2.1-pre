@@ -1,0 +1,15 @@
+{
+	"textureSize": [128, 128],
+	"credit": "Designed by heinrich27 with Blockbench (sorry Bdcraft staff ;)",
+	"boxes": [
+		{
+			"coordinates": [-8, 0, -16, 16, 3, 16],
+			"uvNorth": [16, 52, 32, 55],
+			"uvEast": [0, 52, 16, 55],
+			"uvSouth": [48, 52, 64, 55],
+			"uvWest": [32, 52, 48, 55],
+			"uvUp": [32, 52, 16, 36],
+			"uvDown": [48, 36, 32, 52]
+		}
+	]
+}

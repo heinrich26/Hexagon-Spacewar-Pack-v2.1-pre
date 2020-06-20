@@ -1,0 +1,100 @@
+{
+  "models": 
+  [
+	{
+      "model": "ravager_leg1.jpm",
+      "part": "leg1", 
+	  "attach": false,
+      "translate": [-1.389, 0, 0],
+      "rotate": [0, 0, 10]
+    },
+	{
+      "part": "leg1", 
+	  "attach": true,
+      "animations": [
+          {
+              "leg1.ty": -5.3
+          }
+      ]
+    },
+	{
+      "model": "ravager_leg1.jpm",
+      "part": "leg2", 
+	  "attach": false,
+      "invertAxis": "x",
+      "rotate": [0, 0, -10],
+      "translate": [-1.389, 0, 0],
+      "animations": [
+          {
+              "leg2.ty": -5.3
+          }
+      ]
+    },
+	{
+      "model": "ravager_leg2.jpm",
+      "part": "leg3", 
+	  "attach": false,
+      "rotate": [0, 0, 10],
+      "translate": [-1.389, 0, 0],
+      "animations": [
+          {
+              "leg3.ty": -5.3
+          }
+      ]
+    },
+	{
+      "model": "ravager_leg2.jpm",
+      "part": "leg4", 
+	  "attach": false,
+      "invertAxis": "x",
+      "rotate": [0, 0, -10],
+      "translate": [-1.389, 0, 0],
+      "animations": [
+          {
+              "leg4.ty": -5.3
+          }
+      ]
+    },
+	{
+      "model": "ravager_body.jpm",
+      "part": "body", 
+	  "attach": true,
+      "rotate": [-90, 0, 0]
+    },
+	{
+      "model": "ravager_horn.jpm",
+      "part": "head", 
+	  "attach": true,
+      "translate": [0, -10, -14.5],
+      "scale": 0.75,
+      "rotate": [5, 0, 0]
+    },
+    {
+      "part": "jaw",
+      "id": "jaw",
+          "attach": false,
+      "textureSize": [128, 128],
+      "submodels": [
+	{
+	   "id": "jaw_sub",
+	   "boxes": [
+	      {
+                 "coordinates": [-8, 0, -16, 16, 3, 16],
+	         "uvNorth": [16, 52, 32, 55],
+	 	 "uvEast": [0, 52, 16, 55],
+		 "uvSouth": [48, 52, 64, 55],
+		 "uvWest": [32, 52, 48, 55],
+		 "uvUp": [32, 52, 16, 36],
+		 "uvDown": [48, 36, 32, 52]
+	      }
+           ]
+        }
+      ],
+      "animations": [
+          {
+              "jaw:jaw_sub.rx": "clamp(if(is_sprinting, head_pitch * -0.02 + revenge_time + 1, head_pitch * -0.02 + revenge_time), 0, 0.9)"
+          }
+      ]
+    }
+  ]
+}
