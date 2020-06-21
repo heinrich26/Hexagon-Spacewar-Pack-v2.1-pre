@@ -6,27 +6,27 @@ Bitte immer eine Zeile freilassen!
 
 
 ##### Ressources:
-\-Lichtschwerter überarbeiten
+\-Lichtschwerter überarbeiten (W.I.P heinrich27)
 
 \-LZXZs Modelle einholen + Display hinzufügen und in ein Item einfügen (beim Crossbow) CustomModelData 2+
 
 \-Podracer modeln (dazuschreiben welchen)
 
-\-Stardestroyer Brücken-Fensterbänke überarbeiten (heinrich27)
+\-[done] Stardestroyer Brücken-Fensterbänke überarbeiten (heinrich27)
 
-\-[Done] Kopf für Yoda modeln (heinrich27)
+\-[done] Kopf für Yoda modeln (heinrich27)
 
-\-Mudhorn Bauch modeln
+\-[done] Mudhorn Bauch modeln
 
-\-Mudhorn (Verwüster) Textur machen
+\-[done] Mudhorn (Verwüster) Textur machen
 
-\-Sturmtruppler Helm modeln
+\-[done] Sturmtruppler Helm modeln
 
-\-Jango Fetts Helm nach dem Vorbild von LZXZ remodeln [lookup](https://sketchfab.com/3d-models/the-mandalorian-helmet-minecraft-88f2452ae3ff4a1d9d9ee6713fe9a98b)
+\-[done] Jango Fetts Helm nach dem Vorbild von LZXZ remodeln [lookup](https://sketchfab.com/3d-models/the-mandalorian-helmet-minecraft-88f2452ae3ff4a1d9d9ee6713fe9a98b)
 
-\-Skeletttextur für B1-Kampfdroiden machen
+\-Skeletttextur für B1-Kampfdroiden machen (die sieht nicht so geil aus, vlt noch mal überarbeiten)
 
-\-B1-Kampfdroiden Kopf modeln
+\-[done] B1-Kampfdroiden Kopf modeln
 
 \-Chewbaca Textur für 1 Zombie Villager Beruf der Wahl machen
 
