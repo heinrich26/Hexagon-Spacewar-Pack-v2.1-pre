@@ -6,7 +6,7 @@ Bitte immer eine Zeile freilassen!
 
 
 ##### Ressources:
-\-Lichtschwerter überarbeiten (W.I.P heinrich27)
+\-Lichtschwerter überarbeiten (W.I.P heinrich27)  wir haben bisher anakins, yodas lichtschwert
 
 \-LZXZs Modelle einholen + Display hinzufügen und in ein Item einfügen (beim Crossbow) CustomModelData 2+
 
@@ -16,21 +16,21 @@ Bitte immer eine Zeile freilassen!
 
 \-[done] Kopf für Yoda modeln (heinrich27)
 
-\-[done] Mudhorn Bauch modeln
+\-[done] Mudhorn Bauch modeln (heinrich27)
 
-\-[done] Mudhorn (Verwüster) Textur machen
+\-[done] Mudhorn (Verwüster) Textur machen (heinrich27)
 
-\-[done] Sturmtruppler Helm modeln
+\-[done] Sturmtruppler Helm modeln (heinrich27)
 
-\-[done] Jango Fetts Helm nach dem Vorbild von LZXZ remodeln [lookup](https://sketchfab.com/3d-models/the-mandalorian-helmet-minecraft-88f2452ae3ff4a1d9d9ee6713fe9a98b)
+\-[done] Jango Fetts Helm nach dem Vorbild von LZXZ remodeln [lookup](https://sketchfab.com/3d-models/the-mandalorian-helmet-minecraft-88f2452ae3ff4a1d9d9ee6713fe9a98b) (heinrich27)
 
 \-Skeletttextur für B1-Kampfdroiden machen (die sieht nicht so geil aus, vlt noch mal überarbeiten)
 
-\-[done] B1-Kampfdroiden Kopf modeln
+\-[done] B1-Kampfdroiden Kopf modeln (heinrich27)
 
 \-Chewbaca Textur für 1 Zombie Villager Beruf der Wahl machen
 
-\-BB-8 modeln
+\-BB-8 modeln (heinrich27)
 
 \-Imperiale Droiden (diese kleinen die wie Särge aussehen) modeln
 
